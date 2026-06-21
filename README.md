@@ -38,8 +38,6 @@
 * Build profitable web projects
 * Improve JavaScript skills
 * Master Blender animation
-* Create Fiverr freelancing business
-* Grow open-source portfolio
 
 ---
 
