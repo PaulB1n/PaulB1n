@@ -20,8 +20,6 @@ Currently building **TileWizards**.
 
 ---
 
-## 🐍 Contribution Snake
-
 ![snake gif](https://github.com/PaulB1n/PaulB1n/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
