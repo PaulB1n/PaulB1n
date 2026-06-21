@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=B1NW1N&fontSize=60&fontAlign=50&fontAlignY=40&animation=fadeIn&color=0:0D1117,100:1F6FEB" />
 
-# 👋 Pavlo
-
 ### Web Developer • Motion Designer • FPV Pilot
 
 Currently building **TileWizards**.
