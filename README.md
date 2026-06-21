@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Pavlo
 
-<!--
-**PaulB1n/PaulB1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web Developer in Progress
+🎬 Motion Designer (After Effects)
+🧊 Blender 3D Artist
+🛸 FPV Drone Pilot
+🌐 Working on TileWizards SEO Project
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PaulB1n\&theme=onedark\&row=2\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulB1n\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulB1n\&layout=compact\&theme=tokyonight)
+
+---
+
+## 💻 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge\&logo=blender)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects)
+
+---
+
+## 🚀 Current Projects
+
+🔹 TileWizards SEO Pages
+🔹 Local SEO Automation
+🔹 Blender Cinematic Animations
+🔹 FPV Drone Builds & Tuning
+
+---
+
+## 🎯 Goals 2026
+
+* Build profitable web projects
+* Improve JavaScript skills
+* Master Blender animation
+* Create Fiverr freelancing business
+* Grow open-source portfolio
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/PaulB1n
